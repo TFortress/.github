@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hejo 👋
 🌈 Kim jesteśmy?
 🍿 TFortress.fun to serwerownia tf2 (no way) z własnym matchmakingiem.
